@@ -1,5 +1,4 @@
-# lazyImage
-## 原生JS图片懒加载
+# lazyImage原生JS图片懒加载
 ### 引入js文件
 ```html
 <script src="js/lazyImage.js"></script>
@@ -8,22 +7,22 @@
 ```html
 <ul>
     <li>
-        <img class="lazyimg" src="img/01.jpg" data-lazysrc="img/01.jpg" >
+        <img class="lazyimg" src="img/temp.jpg" data-lazysrc="img/01.jpg" >
     </li>
     <li>
-        <img class="lazyimg" src="img/01.jpg" data-lazysrc="img/02.jpg" >
+        <img class="lazyimg" src="img/temp.jpg" data-lazysrc="img/02.jpg" >
     </li>
     <li>
-        <img class="lazyimg" src="img/01.jpg" data-lazysrc="img/03.jpg" >
+        <img class="lazyimg" src="img/temp.jpg" data-lazysrc="img/03.jpg" >
     </li>
     <li>
-        <img class="lazyimg" src="img/01.jpg" data-lazysrc="img/04.jpg" >
+        <img class="lazyimg" src="img/temp.jpg" data-lazysrc="img/04.jpg" >
     </li>
     <li>
-        <img class="lazyimg" src="img/01.jpg" data-lazysrc="img/05.jpg" >
+        <img class="lazyimg" src="img/temp.jpg" data-lazysrc="img/05.jpg" >
     </li>
     <li>
-        <img class="lazyimg" src="img/01.jpg" data-lazysrc="img/06.jpg" >
+        <img class="lazyimg" src="img/temp.jpg" data-lazysrc="img/06.jpg" >
     </li>
 </ul>
 ```
